@@ -1,0 +1,85 @@
+body{
+    margin:0;
+    padding:0;
+}
+*{
+    margin:0;
+    padding:0;
+}
+h1.designheading{
+    background-color:yellow;
+    color: green;
+    text-align: center;
+    padding: 40px;
+    font-size: 20px;
+}
+
+.parallax{
+    background-image: url(../img/fantasy-2049567_1280.jpg);
+    min-height: 700px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+h2.designheading{
+    background-color: yellowgreen;
+    color: fuchsia;
+    text-align: center;
+    padding: 40px;
+    font-size: 20px;
+} 
+.parallax2{
+    background-image: url(../img/lake-1679708_1280.jpg);
+    min-height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+h3.designheading{
+    background-color: crimson;
+    color: lime;
+    text-align: center;
+    padding: 40px;
+    font-size: 20px;
+} 
+   
+.parallax3{
+    background-image: url(../img/road-1072821_1280.jpg);
+    min-height: 700px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+h4.designheading{
+    background-color: cyan;
+    color: magenta;
+    text-align: center;
+    padding: 40px;
+    font-size: 20px;
+} 
+   
+.parallax4{
+    background-image: url(../img/road-1072823_1280.jpg);
+    min-height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+} 
+h5.designheading{
+    background-color: mediumspringgreen;
+    color: maroon;
+    text-align: center;
+    padding: 40px;
+    font-size: 20px;
+} 
+   
+.parallax5{
+    background-image: url(../img/trees-3822149_1280.jpg);
+    min-height: 700px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}  
+   
+ 
+   
+    
